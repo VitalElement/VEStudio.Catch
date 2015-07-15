@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>fc8484bb-ce34-490d-95ab-e88f238c2a24</Id>
+  <ParentId>cc6159c8-34b9-4d5a-9bc9-c651c266f323</ParentId>
+  <LocationRelativeToParent>Catch\Catch.veproj</LocationRelativeToParent>
+  <Children>
+    <ProjectItem xsi:type="ProjectFile">
+      <Id>b2e6d87d-5ccb-4973-86d7-67eae495f8db</Id>
+      <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+      <LocationRelativeToParent>Catch.h</LocationRelativeToParent>
+      <Language>CPlusPlus</Language>
+      <Standard>None</Standard>
+    </ProjectItem>
+    <ProjectItem xsi:type="ProjectFile">
+      <Id>4ffa6d2b-4832-4a43-817b-a6f151edf852</Id>
+      <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+      <LocationRelativeToParent>TestFramework.cpp</LocationRelativeToParent>
+      <Language>CPlusPlus</Language>
+      <Standard>None</Standard>
+    </ProjectItem>
+  </Children>
+  <ExportedIncludes>
+    <string>Catch</string>
+  </ExportedIncludes>
+  <ProjectLanguage>CPlusPlus</ProjectLanguage>
+  <ProjectStandard>None</ProjectStandard>
+  <Configurations>
+    <ProjectConfiguration>
+      <Name>Default</Name>
+      <ToolChain xsi:type="MinGWToolChain">
+        <Optimization>Off</Optimization>
+        <OptimizationPriority>None</OptimizationPriority>
+      </ToolChain>
+      <CppSupport>false</CppSupport>
+      <DebugSymbols>true</DebugSymbols>
+      <Rtti>false</Rtti>
+      <Exceptions>true</Exceptions>
+      <IncludePaths>
+        <string>Catch</string>
+      </IncludePaths>
+      <Defines />
+      <UseMemoryLayout>false</UseMemoryLayout>
+      <DiscardUnusedSections>false</DiscardUnusedSections>
+      <NotUseStandardStartupFiles>false</NotUseStandardStartupFiles>
+      <Fpu>None</Fpu>
+      <Library>None</Library>
+      <Optimization>None</Optimization>
+      <OptimizationPreference>None</OptimizationPreference>
+      <LinkedLibraries />
+      <SelectedDeviceId>0</SelectedDeviceId>
+      <InRom1Start>0</InRom1Start>
+      <InRom1Size>0</InRom1Size>
+      <InRom2Start>0</InRom2Start>
+      <InRom2Size>0</InRom2Size>
+      <InRam1Start>0</InRam1Start>
+      <InRam1Size>0</InRam1Size>
+      <InRam2Start>0</InRam2Start>
+      <InRam2Size>0</InRam2Size>
+      <DebugInRam>false</DebugInRam>
+      <IsLibrary>true</IsLibrary>
+    </ProjectConfiguration>
+  </Configurations>
+  <References />
+</Project>
