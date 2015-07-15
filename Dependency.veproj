@@ -2,7 +2,7 @@
 <Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>fc8484bb-ce34-490d-95ab-e88f238c2a24</Id>
   <ParentId>cc6159c8-34b9-4d5a-9bc9-c651c266f323</ParentId>
-  <LocationRelativeToParent>Catch\Catch.veproj</LocationRelativeToParent>
+  <LocationRelativeToParent>Dependency.veproj</LocationRelativeToParent>
   <Children>
     <ProjectItem xsi:type="ProjectFile">
       <Id>b2e6d87d-5ccb-4973-86d7-67eae495f8db</Id>
@@ -20,7 +20,7 @@
     </ProjectItem>
   </Children>
   <ExportedIncludes>
-    <string>Catch</string>
+    <string>TestProjectSupport</string>
   </ExportedIncludes>
   <ProjectLanguage>CPlusPlus</ProjectLanguage>
   <ProjectStandard>None</ProjectStandard>
@@ -36,7 +36,7 @@
       <Rtti>false</Rtti>
       <Exceptions>true</Exceptions>
       <IncludePaths>
-        <string>Catch</string>
+        <string>TestProjectSupport</string>
       </IncludePaths>
       <Defines />
       <UseMemoryLayout>false</UseMemoryLayout>
