@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="TestProjectSupportPackage">
-  <Name>TestProject Support</Name>
-  <Version>1.0.0</Version>
-  <Description>Provides test project capabilities to VEStudio</Description>
-  <RepoUri>https://github.com/VitalElement/VEStudio.Catch</RepoUri>
-</Package>

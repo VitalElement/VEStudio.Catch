@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>b3fc8385-b731-4dc8-9b24-3e823f041c4a</Id>
+<Project xsi:type="HiddenProject" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>b5de6958-e2a8-4f46-8f7e-2392d968a5bb</Id>
   <ParentId>390ef733-3446-4431-ac40-fef25ba1e04c</ParentId>
   <LocationRelativeToParent>Packages\CatchTestFramework\Dependency.veproj</LocationRelativeToParent>
   <Children>
