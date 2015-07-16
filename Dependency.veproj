@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>fc8484bb-ce34-490d-95ab-e88f238c2a24</Id>
-  <ParentId>cc6159c8-34b9-4d5a-9bc9-c651c266f323</ParentId>
-  <LocationRelativeToParent>Dependency.veproj</LocationRelativeToParent>
+  <Id>b3fc8385-b731-4dc8-9b24-3e823f041c4a</Id>
+  <ParentId>390ef733-3446-4431-ac40-fef25ba1e04c</ParentId>
+  <LocationRelativeToParent>Packages\CatchTestFramework\Dependency.veproj</LocationRelativeToParent>
   <Children>
     <ProjectItem xsi:type="ProjectFile">
       <Id>b2e6d87d-5ccb-4973-86d7-67eae495f8db</Id>
       <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
       <LocationRelativeToParent>Catch.h</LocationRelativeToParent>
-      <Language>CPlusPlus</Language>
-      <Standard>None</Standard>
     </ProjectItem>
     <ProjectItem xsi:type="ProjectFile">
       <Id>4ffa6d2b-4832-4a43-817b-a6f151edf852</Id>
       <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
       <LocationRelativeToParent>TestFramework.cpp</LocationRelativeToParent>
-      <Language>CPlusPlus</Language>
-      <Standard>None</Standard>
     </ProjectItem>
   </Children>
   <ExportedIncludes>
-    <string>TestProjectSupport</string>
+    <string>Packages\CatchTestFramework</string>
   </ExportedIncludes>
-  <ProjectLanguage>CPlusPlus</ProjectLanguage>
-  <ProjectStandard>None</ProjectStandard>
   <Configurations>
     <ProjectConfiguration>
       <Name>Default</Name>
@@ -35,9 +29,7 @@
       <DebugSymbols>true</DebugSymbols>
       <Rtti>false</Rtti>
       <Exceptions>true</Exceptions>
-      <IncludePaths>
-        <string>TestProjectSupport</string>
-      </IncludePaths>
+      <IncludePaths />
       <Defines />
       <UseMemoryLayout>false</UseMemoryLayout>
       <DiscardUnusedSections>false</DiscardUnusedSections>
