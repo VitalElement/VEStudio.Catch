@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project xsi:type="HiddenProject" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Id>b5de6958-e2a8-4f46-8f7e-2392d968a5bb</Id>
-  <ParentId>390ef733-3446-4431-ac40-fef25ba1e04c</ParentId>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="HiddenProject">
+  <Id>bf0bebea-8975-43d6-bba1-bea9a2490957</Id>
+  <ParentId>dc7db14c-4536-4c60-942b-b9ade26ebd1d</ParentId>
   <LocationRelativeToParent>Packages\CatchTestFramework\Dependency.veproj</LocationRelativeToParent>
   <Children>
     <ProjectItem xsi:type="ProjectFile">
